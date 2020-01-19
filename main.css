@@ -1,0 +1,21 @@
+h2 {
+    background-color: #F6C28B ;
+    color: #ffffff;
+    padding: 5px;
+    
+    
+}
+
+/* How to use em, it is a multipler of the font size
+    h1 {
+    font-size: 20px;
+    height: 5em;
+    background-color: #F6C28B ;
+    color: #ffffff;
+  } 
+  
+  */
+
+.title {
+    font-size: 65px;
+  }
